@@ -1,0 +1,2 @@
+# trex
+creating trex game 
